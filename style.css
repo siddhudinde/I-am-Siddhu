@@ -1,0 +1,269 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
+
+#middle
+{
+    background-color: rebeccapurple;
+}
+#top
+{
+    background-color: #E0EBE8;
+    
+}
+
+img
+{
+    position: relative;
+    left: 200px;
+    height: 82px;
+    width: 82px;
+    padding-top: 20px;
+}
+
+
+.div1
+    {
+        position: relative;
+        left: 850px;
+        bottom: 40px;
+        font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+        color: #4AB19A;
+    }
+
+.div2
+    {
+        position: relative;
+        left: 900px;
+        bottom: 40px;
+        font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+        color: #4AB19A;
+    }
+.div3
+    {
+        position: relative;
+        left: 950px;
+        bottom: 40px;
+        font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+        color: #4AB19A;
+    }
+.div4
+{
+    background-color: #E0EBE8;
+    height: 800px;
+    width: 100%;
+
+
+    
+}
+h1
+{
+text-align: center;
+font-family: 'sacramento';
+display: inline;
+position: absolute;
+left: 460px;
+top: 150px;
+font-size: 5.5rem;
+color: #4AB19A;
+}
+.he
+{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    color: #4AB19A;
+}
+
+.cloud
+{
+    position: relative;
+    height: 70px;
+    width: 150px;
+    left: 950px;
+    top: 100px;
+}
+.cloud2
+{
+ position: relative;
+ height: 70px;
+ width: 150px;
+ left: 20px;
+ top: 220px;
+
+}
+.mon
+{
+    display: block;
+    position: absolute;
+    height: 450px;
+    width: 450px;
+    top: 450px;
+    left: 380px;
+
+}
+.tid
+{
+    padding-top: 50px;
+}
+.boy
+{
+  padding-top: 100px;
+  border-radius: 50%;
+  align-content: center;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 585px;
+}
+.hh
+{
+    text-align: center;
+    padding-top: 20px;
+    color: #4AB19A ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.dev
+{
+    font-family: 'Lora', serif;
+    position: relative;
+    line-height: 1.5rem;
+    left: 38%;
+    word-spacing: 0.2rem;
+    width: 300px;
+}
+h2{
+    color: #4AB19A;
+    position: relative;
+    left: 560px;
+    font-size: 2.0rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.sim
+{
+    position: relative;
+    align-content: center;
+    height: 135px;
+    width: 135px;
+    left: 280px;
+}
+.sub-title
+{
+    position: absolute;
+    display: inline;
+    color:#4AB19A;
+    left: 690px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+
+}
+.para
+{
+    position:absolute;
+    display: inline;
+    width: 350px;
+    font-family: 'Lora', serif;
+    left: 690px;
+    top: 1780px;
+    word-spacing: 0.3rem;
+    
+}
+.hack
+{
+  position: relative;
+  align-content: center;
+  height: 90px;
+  width: 90px;
+  left: 340px;  
+  padding: 15px;
+}
+.develope
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #4AB19A;
+    position: absolute;
+    left: 340px;
+    top: 1930px;
+    word-spacing: 0.3rem;
+}
+.suby
+{
+    position: relative;
+    font-family: 'Lora', serif;
+    width: 350px;
+    top: 170px;
+   line-height: 1.5rem;
+    word-spacing: 0.3rem;
+    left: 330px;
+}
+.ss
+{
+    position: relative;
+    align-content: center;
+    height: 135px;
+    width: 135px;
+    left: 900px;
+    padding: 15px;
+}
+.mob
+{
+    position: relative;
+    align-content: center;
+    height: 90px;
+    width: 90px;
+    left: 830px;
+    padding: 25px; 
+}
+.help
+{
+    color: #4AB19A;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    word-spacing: 0.2rem;
+}
+.pp
+{
+ 
+  text-align: center;
+  width: 600px;
+  font-family: 'Lora', serif;
+  margin-left: 370px;  
+}
+.hire
+{
+height: 170px;
+width: 100%;
+
+background-color: rgb(200, 206, 204);
+text-align: center;
+position: relative;
+
+
+}
+.hey
+{
+    color:#4AB19A;
+  text-decoration: none;
+  position: relative;
+  top: 55px;
+  left: -10px;
+  padding-left: 3.5rem;
+  font-family:'Montserrat', sans-serif; 
+
+}
+.pree
+{
+    position: relative;
+    top: 65px;
+    text-align: center;
+    color: #4AB19A;
+    font-family: 'Montserrat', sans-serif; 
+}
